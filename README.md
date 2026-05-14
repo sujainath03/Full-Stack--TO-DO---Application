@@ -12,6 +12,6 @@ CORS Configuration: Frontend and Backend smooth-a communicate panna configure se
 
 Tech Stack Backend: Java 21, Spring Boot 3.4.2, Spring Security.
 
-Database: MySQL.
+Database: Clever Cloud online.
 
 Frontend: HTML5, CSS3, JavaScript (ES6+).
