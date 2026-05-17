@@ -1,5 +1,5 @@
 // Shared configuration
-const SERVER_URL = "https://to-do-application-gg7v.onrender.com";
+const SERVER_URL = "";
 const token = localStorage.getItem("token");
 
 // --- 1. LOGIN LOGIC ---
