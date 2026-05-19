@@ -1,5 +1,5 @@
 // Shared configuration
-const SERVER_URL = "";
+const SERVER_URL = "https://to-do-app-tvdn.onrender.com";
 const token = localStorage.getItem("token");
 
 // --- 1. LOGIN LOGIC ---
